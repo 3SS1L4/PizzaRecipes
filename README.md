@@ -2,6 +2,10 @@
 
 > **LAB 6 — Programmation Mobile : Android avec Java** > Application de gestion de catalogue avec architecture en couches, ListView personnalisée et passage d'objets.
 
+
+https://github.com/user-attachments/assets/effb8ab9-ce29-4121-8208-704491ce9802
+
+
 ---
 
 ## 📸 Aperçu
