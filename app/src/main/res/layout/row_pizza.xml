@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="horizontal" android:padding="10dp" android:background="?android:attr/selectableItemBackground">
+    <ImageView
+        android:id="@+id/imgPizza" android:layout_width="80dp" android:layout_height="80dp"
+        android:scaleType="centerCrop" android:background="#EEEEEE"/>
+    <LinearLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:layout_marginStart="15dp" android:layout_gravity="center">
+        <TextView
+            android:id="@+id/tvNom" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textSize="18sp" android:textStyle="bold" android:textColor="#333333"/>
+        <TextView
+            android:id="@+id/tvMeta" android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textColor="#757575"/>
+    </LinearLayout>
+</LinearLayout>

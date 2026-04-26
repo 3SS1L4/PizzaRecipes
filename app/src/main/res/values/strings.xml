@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pizza Recipes</string>
+    <string name="title_ingredients">Ingrédients :</string>
+    <string name="title_description">Description :</string>
+    <string name="title_steps">Étapes de préparation :</string>
+    <string name="not_found">Pizza introuvable !</string>
+</resources>
