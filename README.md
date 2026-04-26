@@ -63,7 +63,7 @@ com.example.pizzarecipes/
 
 1. Clone le dépôt :
    ```bash
-   git clone [https://github.com/3SS1L4/pizzarecipes.git](https://github.com/3SS1L4/pizzarecipes.git)
+   git clone https://github.com/3SS1L4/pizzarecipes.git
    ```
 2. Ouvre le projet dans **Android Studio**.
 3. Assure-toi que les images (`pizza1` à `pizza10`) sont présentes dans `res/mipmap`.
